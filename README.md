@@ -318,6 +318,7 @@ guizang-ppt-skill/
     ├── layouts.md        ← 10 种页面布局骨架(可直接粘贴)
     ├── layouts-swiss.md  ← 22 种瑞士风锁定版式
     ├── swiss-layout-lock.md ← 瑞士风还原度和版式硬约束
+    ├── layouts-longform.md ← 长页版式规范(字号阶梯/间距/九类组件/密度下限,长页必读)
     ├── themes.md         ← 5 套主题色预设(只能选不能自定义)
     ├── themes-swiss.md   ← 4 套瑞士风锚点色
     ├── image-prompts.md  ← GPT-Image 2.0 / GPT-M 2.0 配图类型、比例和基础提示词
